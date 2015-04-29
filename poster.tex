@@ -1,0 +1,108 @@
+\documentclass[a0,portrait]{a0poster}
+
+\usepackage{multicol}
+\usepackage[cmyk]{xcolor}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{wrapfig}
+\usepackage{titlesec}
+\usepackage{fontspec}
+\usepackage[numbers]{natbib}
+\usepackage[section]{placeins}
+\usepackage{float}
+\usepackage{polyglossia}
+\usepackage{blindtext}
+
+\graphicspath{{figures/}}
+\columnsep=100pt
+\columnseprule=3pt
+
+\setmainfont[Mapping=tex-text]{Garamond}
+\setsansfont[Mapping=tex-text]{Gill Sans}
+
+\definecolor{EMBLBlue}{cmyk}{0.93,0.26,0.46,0.11}
+\definecolor{EMBLGreen}{cmyk}{0.6,0,0.85,0.1}
+\definecolor{EMBLRed}{cmyk}{0,1,0.9,0.05}
+\definecolor{DarkGrey}{cmyk}{0.35,0.28,0.29,0}
+\definecolor{Black}{cmyk}{0,0,0,1}
+
+\newcommand*\hlitem[1][EMBLRed]{\color{#1}\item\color{Black}}
+\newcommand\ptitle[2]{\linespread{#1}\selectfont\veryHuge\color{EMBLBlue}\textbf{#2}\par\bigskip}
+
+\titleformat*{\section}{\sffamily\Large\bfseries\color{EMBLBlue}}
+\titleformat*{\subsection}{\sffamily\large\bfseries\color{EMBLGreen}}
+\titleformat*{\subsubsection}{\sffamily\normalsize\bfseries\color{DarkGrey}}
+
+\titleformat*{\paragraph}{\normalfont\normalsize\bfseries\color{black}}
+\titleformat*{\subparagraph}{\normalfont\normalsize\bfseries\color{black}}
+
+\setmainlanguage[variant=uk]{english}
+
+\begin{document}
+
+\begin{minipage}[b]{1.0\linewidth}
+    \sffamily
+    \ptitle{1}{Codon–anticodon interactions in mammals do not adapt to changes
+    in cellular function}
+    \Large\color{Black}%
+    \textbf{%
+        \underline{Konrad L.\ M.\ Rudolph\textsuperscript{1}},
+        Bianca M.\ Schmitt\textsuperscript{2},
+        Duncan T.\ Odom\textsuperscript{2},
+        John C.\ Marioni\textsuperscript{1},
+        Claudia Kutter\textsuperscript{2}
+    }
+    \\[0.5cm]
+    \normalsize 1. Author affiliation
+    \\2. Co-author affiliation
+\end{minipage}
+
+\vspace{1cm}
+\renewcommand\baselinestretch{1}
+
+\begin{multicols}{2}
+\large
+
+\section*{Introduction}
+\blindtext ~\citep{Reynolds2012a}
+
+\small
+\begin{multicols}{2}
+    \bibliography{sample.bib}
+
+    \section*{Acknowledgements}
+
+    Thank me, Thank me...!
+\end{multicols}
+\end{multicols}
+
+\vfill
+
+\begin{minipage}[][][b]{0.20\linewidth}
+    \includegraphics[width=15cm]{figures/Pantone-colour-accurate/Colour_logo_pantone_DM.eps}
+\end{minipage}%
+\qquad%
+\begin{minipage}[][][b]{0.20\linewidth}
+    \includegraphics[width=15cm]{figures/SCI_logo.eps}
+\end{minipage}%
+\qquad%
+\begin{minipage}[][][b]{0.20\linewidth}
+    \includegraphics[width=15cm]{figures/EMBL-EBIlogo.eps}
+\end{minipage}%
+\qquad%
+\begin{minipage}[][][b]{0.20\linewidth}
+    \color{EMBLBlue}
+    EMBL-EBI \\
+    Welcome Trust Genome Campus \\
+    Hinxton, Cambridgeshire, CB10 1SD, UK
+    \end{minipage}
+    \qquad
+    \begin{minipage}[][][b]{0.20\linewidth}
+    \color{EMBLBlue}
+
+    johndoe@ebi.ac.uk \\
+    www.ebi.ac.uk
+\end{minipage}
+
+\end{document}
