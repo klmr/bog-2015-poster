@@ -1,6 +1,12 @@
-# Poster template in LaTeX
+# Biology of Genomes poster
 
-Notes:
-* It's really difficult to get the figures where you want them on the poster and to keep everything in a single page
-* The abbr1au.bst file was created with `latex makebst`. It sets the style of bibliography to author (year) journal, volume:pages
-* On OS X Yosemite compiling the file leads to errors (`dyld: Library not loaded: /usr/X11/lib/libXt.6.dylib`) due to path to X11. Installing the latest XQuartz fixes the error (http://tex.stackexchange.com/questions/208001/cant-compile-image-after-upgrading-to-os-x-yosemite).
+## A note on reuse
+
+Template is a bit messy (lots of `\noindent`s) but serviceable. I’ve stripped
+the author information from the comments, so here they are:
+
+* Original author Gerlinde Kettl and Matthias Weiser (tex@kettl.de)
+
+* Modified by @mxenoph
+
+Licensed as CC BY-NC-SA 3.0
