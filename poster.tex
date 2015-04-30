@@ -7,9 +7,9 @@
 \sffamily
 
 \noindent
-\begin{minipage}[][8cm][t]{0.88\textwidth}
+\begin{minipage}[][10cm][t]{0.88\textwidth}
     {
-        \VeryHuge\color{EMBLBlue}\bfseries\sffamily%
+        \VeryHuge\color{accent}\bfseries\sffamily%
         Codon–anticodon interactions in mammals do not adapt to changes in
         cellular function
     }
@@ -23,33 +23,83 @@
         John C.\ Marioni\textsuperscript{1},
         Claudia Kutter\textsuperscript{2}
     }
-    \\[0.5cm]
-    \normalsize%
-    1. Author affiliation\\
-    2. Co-author affiliation
 \end{minipage}%
 \hfill%
-\begin{minipage}[][8cm][t]{0.1\textwidth}
+\begin{minipage}[][10cm][t]{0.1\textwidth}
     \raggedleft
-    \includegraphics[height=8cm]{portrait}
+    \includegraphics[height=10cm]{portrait}
 \end{minipage}
 
-\vspace{5cm}
+\vspace{3cm}
 \Large
 
 \noindent
-\begin{minipage}[t]{0.45\textwidth}
+\begin{minipage}[t][][t]{0.45\textwidth}
     \section*{Introduction}
     \blindtext
+    \citep{Schmitt:2014}, \citep{Gingold:2014}
+\end{minipage}%
+\hfill%
+\begin{minipage}[t][][t]{0.5\textwidth}
+    \section*{Codon usage bias correlates with gene set size}
+    \includegraphics[width=\textwidth]{gene-set-size}
 \end{minipage}
 
-\small
+\begin{minipage}[][][t]{\textwidth}
+    \section*{Experimental setup}
+    \begin{minipage}[c]{0.50\textwidth}
+        \includegraphics[width=\textwidth]{experimental-design}
+        \\[2cm]
+        mRNA codon usage and tRNA anticodon abundance (healthy adult liver and
+        two cancer cell lines) were correlated to estimate adaptation of codon
+        usage to anticodon abundance in each cellular condition. Higher
+        correlation implies better adaptation of the codon usage to the
+        anticodon abundance.
+    \end{minipage}%
+    \hfill
+    \begin{minipage}{0.20\textwidth}
+        \centering
+        \textbf{Legend:}\\[0.5cm]
+        \includegraphics[width=\textwidth]{legend-1}
+        \\[2cm]
+        \includegraphics[width=\textwidth]{legend-2}
+    \end{minipage}%
+    \hfill
+    \begin{minipage}{0.20\textwidth}
+        \centering
+        \includegraphics[height=15cm]{interaction-schema}
+    \end{minipage}%
+\end{minipage}
+
+\vspace{3cm}
+\begin{minipage}{\textwidth}
+    \begin{minipage}[t]{0.48\textwidth}
+        \section*{Results}
+        \includegraphics[width=\textwidth]{results}
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[t][][t]{0.48\textwidth}
+        \section*{Tumour cell types show no evidence of codon--anticodon coordination}
+    \end{minipage}%
+\end{minipage}
+
+\vspace{3cm}
+\section*{References}
 \begin{multicols}{2}
-    \bibliography{sample.bib}
+    \renewcommand\section[2]{}
+    \bibliography{references.bib}
 \end{multicols}
 
 \vfill
+\noindent
+\begin{center}
+\normalsize%
+1. European Molecular Biology Laboratory, European Bioinformatics Institute •
+2. University of Cambridge, Cancer Research UK Cambridge Institute
+\end{center}
+\vspace{1cm}
 
+\noindent
 \begin{minipage}[][][b]{0.3\textwidth}
     \centering
     \includegraphics[height=4cm]{Colour_logo_pantone_DM}

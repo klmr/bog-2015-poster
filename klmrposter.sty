@@ -1,6 +1,6 @@
 \ProvidesPackage{klmrposter}
 \usepackage{multicol}
-\usepackage[cmyk]{xcolor}
+\usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage[font=small,labelfont=bf]{caption}
@@ -15,6 +15,8 @@
 \usepackage{microtype}
 \usepackage{setspace}
 
+\bibliographystyle{abbr1au}
+
 \graphicspath{{figures/}}
 \columnsep=100pt
 \setmainfont[Mapping=tex-text]{Garamond}
@@ -27,14 +29,17 @@
     Scale=MatchLowercase
 ]{Gill Sans}
 
+\definecolor{rebeccapurple}{HTML}{663399}
 \definecolor{EMBLBlue}{cmyk}{0.93,0.26,0.46,0.11}
 \definecolor{EMBLGreen}{cmyk}{0.6,0,0.85,0.1}
 \definecolor{EMBLRed}{cmyk}{0,1,0.9,0.05}
 \definecolor{DarkGrey}{cmyk}{0.35,0.28,0.29,0}
 \definecolor{Black}{cmyk}{0,0,0,1}
 
-\titleformat*{\section}{\sffamily\Huge\bfseries\color{EMBLBlue}}
-\titleformat*{\subsection}{\sffamily\Large\bfseries\color{EMBLGreen}}
+\definecolor{accent}{named}{rebeccapurple}
+
+\titleformat*{\section}{\sffamily\Huge\bfseries\color{accent}}
+\titleformat*{\subsection}{\sffamily\Large\bfseries\color{accent}}
 \titleformat*{\subsubsection}{\sffamily\normalsize\bfseries\color{DarkGrey}}
 
 \titleformat*{\paragraph}{\normalfont\normalsize\bfseries\color{black}}
