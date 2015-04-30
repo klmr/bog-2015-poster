@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="98.907249mm"
-   height="67.443871mm"
-   viewBox="0 0 98.907249 67.443871"
+   width="98.17321mm"
+   height="74.58168mm"
+   viewBox="0 0 98.17321 74.581681"
    id="svg27284"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12911"
@@ -74,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="99.964318"
-     inkscape:cy="79.330927"
+     inkscape:zoom="1.4"
+     inkscape:cx="130.52502"
+     inkscape:cy="-20.827138"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(9.3881491,-316.19472)">
+     transform="translate(8.6541076,-316.19472)">
     <g
        id="g129372"
        transform="matrix(0.35277777,0,0,-0.35277777,-35.839068,457.78173)">
@@ -740,18 +740,6 @@
         </g>
       </g>
     </g>
-    <text
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
-       id="text129650"
-       x="0.33632195"
-       y="383.09238">
-      <tspan
-         style="stroke-width:0.35277775"
-         x="0.33632195 2.3933671 3.7663777 4.4528875 5.6876097 7.0606213 7.6088314 8.981842"
-         y="383.09238"
-         sodipodi:role="line"
-         id="tspan129652">Matching</tspan>
-    </text>
     <g
        id="g129654"
        transform="matrix(0.35277777,0,0,-0.35277777,-35.839068,457.78173)">
@@ -1503,43 +1491,6 @@
         </g>
       </g>
     </g>
-    <text
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
-       id="text129978"
-       x="36.06575"
-       y="383.09238">
-      <tspan
-         style="stroke-width:0.35277775"
-         x="36.06575 37.986973"
-         y="383.09238"
-         sodipodi:role="line"
-         id="tspan129980">GO</tspan>
-    </text>
-    <text
-       transform="rotate(-90)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222199px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
-       id="text129982"
-       x="-353.03809"
-       y="-7.3086896">
-      <tspan
-         style="stroke-width:0.35277775"
-         x="-353.03809 -351.00043 -349.43127 -348.49149 -347.5517 -345.98251 -345.35599 -343.78683 -343.00226 -342.37573 -340.80658"
-         y="-7.3086896"
-         sodipodi:role="line"
-         id="tspan129984">Correlation</tspan>
-    </text>
-    <text
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
-       id="text129986"
-       x="11.985922"
-       y="383.09238">
-      <tspan
-         style="stroke-width:0.35277775"
-         x="11.985922 14.042967 14.591188 15.825912 17.882957 19.255955 19.942467 21.177189 22.5502 23.098412 24.47142 27.308811 29.091759 45.706169 47.763214 49.136238 49.822739 51.057457 52.430481 52.978683 54.351704 82.140373 84.061592 57.707676 59.764721 60.312939 61.547672 63.604717 64.97773 65.664253 66.898972 68.271973 68.820198 70.193192 73.030594 74.813538"
-         y="383.09238"
-         sodipodi:role="line"
-         id="tspan129988">MismatchingDEMatchingGOMismatchingDE</tspan>
-    </text>
     <g
        id="g129998"
        transform="matrix(0.35277777,0,0,-0.35277777,6.3967579,368.7477)">
@@ -1650,6 +1601,169 @@
            id="path13082"
            inkscape:connector-curvature="0" />
       </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-346.44241"
+       y="-6.6041837"
+       id="text37230"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan37232"
+         x="-346.44241"
+         y="-6.6041837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">Correlation</tspan></text>
+    <g
+       id="g37258"
+       transform="translate(0,-3.7041668)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text37234"
+         y="386.7872"
+         x="5.3116746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="386.7872"
+           x="5.3116746"
+           id="tspan37236"
+           sodipodi:role="line">Matching</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text37238"
+         y="386.7872"
+         x="18.541515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="386.7872"
+           x="18.541515"
+           id="tspan37240"
+           sodipodi:role="line">Mismatching</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text37242"
+         y="387.11172"
+         x="28.697758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="387.11172"
+           x="28.697758"
+           id="tspan37244"
+           sodipodi:role="line">DE</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text37246"
+         y="387.1131"
+         x="37.918556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="387.1131"
+           x="37.918556"
+           id="tspan37248"
+           sodipodi:role="line">GO</tspan></text>
+      <text
+         sodipodi:linespacing="105%"
+         id="text37250"
+         y="390.87094"
+         x="33.603989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="390.87094"
+           x="33.603989"
+           id="tspan37252"
+           sodipodi:role="line">Cell type</tspan><tspan
+           id="tspan37254"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           y="393.83429"
+           x="33.603989"
+           sodipodi:role="line">specific</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path37256"
+         d="m 27.093851,387.9149 12.965172,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(45.508356,-3.7041668)"
+       id="g37272">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5.3116746"
+         y="386.7872"
+         id="text37274"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan37276"
+           x="5.3116746"
+           y="386.7872"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">Matching</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="18.541515"
+         y="386.7872"
+         id="text37278"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan37280"
+           x="18.541515"
+           y="386.7872"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">Mismatching</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="28.697758"
+         y="387.11172"
+         id="text37282"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan37284"
+           x="28.697758"
+           y="387.11172"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">DE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="37.918556"
+         y="387.1131"
+         id="text37286"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan37288"
+           x="37.918556"
+           y="387.1131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">GO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="33.603989"
+         y="390.87094"
+         id="text37290"
+         sodipodi:linespacing="105%"><tspan
+           sodipodi:role="line"
+           id="tspan37292"
+           x="33.603989"
+           y="390.87094"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px">Cell type</tspan><tspan
+           sodipodi:role="line"
+           x="33.603989"
+           y="393.83429"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:104.99999523%;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';stroke-width:0.26458332px"
+           id="tspan37294">specific</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.093851,387.9149 12.965172,0"
+         id="path37296"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
   </g>
 </svg>

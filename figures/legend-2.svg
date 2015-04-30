@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.47493mm"
-   height="25.973635mm"
-   viewBox="0 0 50.47493 25.973635"
+   width="54.400467mm"
+   height="26.47019mm"
+   viewBox="0 0 54.400467 26.47019"
    id="svg25887"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12911"
@@ -159,7 +159,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26886"
+       id="linearGradient31823"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -168,7 +168,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26888"
+       id="linearGradient31825"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -177,7 +177,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26890"
+       id="linearGradient31827"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -186,7 +186,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26892"
+       id="linearGradient31829"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -195,7 +195,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26894"
+       id="linearGradient31831"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -204,7 +204,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26896"
+       id="linearGradient31833"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -213,7 +213,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26898"
+       id="linearGradient31835"
        gradientUnits="userSpaceOnUse"
        x1="-287.86938"
        y1="-377.34082"
@@ -222,7 +222,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26900"
+       id="linearGradient31837"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(93.1875,0.18750004)"
        x1="-287.86938"
@@ -232,7 +232,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26902"
+       id="linearGradient31839"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(93.5625,22.312501)"
        x1="-287.86938"
@@ -242,7 +242,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#black"
-       id="linearGradient26904"
+       id="linearGradient31841"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(93.5625,42.750002)"
        x1="-287.86938"
@@ -257,18 +257,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="329.67139"
-     inkscape:cy="117.65547"
+     inkscape:zoom="1"
+     inkscape:cx="205.3857"
+     inkscape:cy="117.65546"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="0"
+     fit-margin-top="0.5"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="2400"
-     inkscape:window-height="900"
+     inkscape:window-width="1920"
+     inkscape:window-height="1156"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0" />
@@ -288,7 +288,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(241.43984,-153.98938)">
+     transform="translate(241.43984,-153.49282)">
     <g
        transform="matrix(0.35277777,0,0,-0.35277777,-132.63011,292.89572)"
        id="g14725">
@@ -328,7 +328,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26886);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31823);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-287.90356"
              y="-372.5625"
              id="text13477"
@@ -338,7 +338,7 @@
                id="tspan13479"
                x="-287.90356"
                y="-372.5625"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26886);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31823);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
         </g>
         <g
            id="g13533"
@@ -379,9 +379,9 @@
              id="text13547"
              y="-372.5625"
              x="-287.90356"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26888);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31825);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26888);fill-opacity:1;stroke-width:0.75px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31825);fill-opacity:1;stroke-width:0.75px"
                y="-372.5625"
                x="-287.90356"
                id="tspan13549"
@@ -422,7 +422,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26890);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31827);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-287.90356"
              y="-372.5625"
              id="text13567"
@@ -432,7 +432,7 @@
                id="tspan13569"
                x="-287.90356"
                y="-372.5625"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26890);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31827);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
         </g>
       </g>
       <text
@@ -451,7 +451,7 @@
     </g>
     <g
        id="g14757"
-       transform="matrix(0.35277777,0,0,-0.35277777,-132.47844,292.89572)">
+       transform="matrix(0.35277777,0,0,-0.35277777,-132.52668,292.89572)">
       <g
          transform="translate(0.18747522)"
          id="g14050">
@@ -494,9 +494,9 @@
              id="text13611"
              y="-372.5625"
              x="-287.90356"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26892);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31829);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26892);fill-opacity:1;stroke-width:0.75px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31829);fill-opacity:1;stroke-width:0.75px"
                y="-372.5625"
                x="-287.90356"
                id="tspan13613"
@@ -537,7 +537,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26894);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31831);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-287.90356"
              y="-372.5625"
              id="text13664"
@@ -547,7 +547,7 @@
                id="tspan13666"
                x="-287.90356"
                y="-372.5625"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26894);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31831);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
         </g>
         <g
            transform="translate(46.312502,-34.125005)"
@@ -584,7 +584,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26896);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31833);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-287.90356"
              y="-372.5625"
              id="text13744"
@@ -594,7 +594,7 @@
                id="tspan13746"
                x="-287.90356"
                y="-372.5625"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26896);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31833);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
         </g>
         <g
            id="g13750"
@@ -635,9 +635,9 @@
              id="text13764"
              y="-372.5625"
              x="-287.90356"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26898);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31835);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26898);fill-opacity:1;stroke-width:0.75px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31835);fill-opacity:1;stroke-width:0.75px"
                y="-372.5625"
                x="-287.90356"
                id="tspan13766"
@@ -703,9 +703,9 @@
              id="text14141"
              y="-372.375"
              x="-194.71606"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26900);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31837);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26900);fill-opacity:1;stroke-width:0.75px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31837);fill-opacity:1;stroke-width:0.75px"
                y="-372.375"
                x="-194.71606"
                id="tspan14143"
@@ -746,7 +746,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26902);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31839);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-194.34106"
              y="-350.25"
              id="text14190"
@@ -756,7 +756,7 @@
                id="tspan14192"
                x="-194.34106"
                y="-350.25"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26902);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31839);fill-opacity:1;stroke-width:0.75px">/</tspan></text>
         </g>
         <g
            id="g14280"
@@ -797,9 +797,9 @@
              id="text14210"
              y="-329.8125"
              x="-194.34106"
-             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient26904);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient31841);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient26904);fill-opacity:1;stroke-width:0.75px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';fill:url(#linearGradient31841);fill-opacity:1;stroke-width:0.75px"
                y="-329.8125"
                x="-194.34106"
                id="tspan14212"
@@ -818,7 +818,7 @@
            y="-386.83133"
            x="-202.13626"
            id="tspan14479"
-           sodipodi:role="line">DE/GO</tspan></text>
+           sodipodi:role="line">Cell specific</tspan></text>
     </g>
   </g>
 </svg>
