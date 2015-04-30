@@ -7,6 +7,6 @@ the author information from the comments, so here they are:
 
 * Original author Gerlinde Kettl and Matthias Weiser (tex@kettl.de)
 
-* Modified by @mxenoph
+* Modified by [@mxenoph](/mxenoph)
 
 Licensed as CC BY-NC-SA 3.0
