@@ -63,12 +63,15 @@
     \section*{Experimental setup}
     \begin{minipage}[c]{0.50\textwidth}
         \includegraphics[width=\textwidth]{experimental-design}
-        \\[2cm]
-        mRNA codon usage and tRNA anticodon abundance (healthy adult liver and
-        two cancer cell lines) were correlated to estimate adaptation of codon
-        usage to anticodon abundance in each cellular condition. Higher
-        correlation implies better adaptation of the codon usage to the
-        anticodon abundance.
+        \\[1cm]
+        Codon usage and Anticodon abundance of healthy adult liver and two
+        cancer cell lines were correlated to estimate their adaptation in each
+        cellular condition. Higher correlation implies better adaptation of the
+        codon usage to the anticodon abundance.
+
+        The GO terms for cell-specific functions are “pattern specification
+        process” and “M phase of mitotic cell cycle” for healthy and tumour
+        cells, respectively.
     \end{minipage}%
     \hfill
     \begin{minipage}{0.20\textwidth}
@@ -85,7 +88,7 @@
     \end{minipage}%
 \end{minipage}
 
-\vspace{3cm}
+\vspace{2cm}
 \begin{minipage}{\textwidth}
     \begin{minipage}[t]{0.48\textwidth}
         \section*{Results}
@@ -93,12 +96,24 @@
     \end{minipage}%
     \hfill%
     \begin{minipage}[t][][t]{0.48\textwidth}
+        \LARGE
         \section*{Tumour cell types show no evidence of codon--anticodon coordination}
+        Codon--anticodon correlation is not significantly higher in matching
+        than in mismatching cellular condition. The same is true in genes in
+        condition-specific gene sets (determined either via differential
+        expression or Gene Ontology). Gene sets determined from Gene Ontology,
+        on the contrary, show significantly less codon--anticodon correlation,
+        consistent with the stochastic effect of small gene set sample sizes
+        (\(N<100\) in all cases) on codon bias.
+
+        \vspace{7cm}
+        \hfill Contact: rudolph@ebi.ac.uk, \textbf{@klmr}
     \end{minipage}%
 \end{minipage}
 
-\vspace{3cm}
+\vspace{2cm}
 \section*{References}
+\vspace{-1cm}
 \begin{multicols}{2}
     \renewcommand\section[2]{}
     \bibliography{references.bib}
