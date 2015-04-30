@@ -5,7 +5,9 @@
 
 \begin{document}
 \sffamily
+\Large
 
+% {{{
 \noindent
 \begin{minipage}[][10cm][t]{0.88\textwidth}
     {
@@ -29,92 +31,87 @@
     \raggedleft
     \includegraphics[height=10cm]{portrait}
 \end{minipage}
+% }}}
 
-\vspace{3cm}
-\Large
+\vspace{-1cm}
+\section*{Introduction}
+{
+\LARGE
+We have previously reported the stability of the codon--anticodon interface
+during mouse development, where we measured the whole-transcriptome codon
+usage and the tRNA anticodon abundance of matching stages of development and
+found remarkable stability, both in codon usage and in tRNA anticodon
+abundance, despite the drastic phenotypic changes \citep{Schmitt:2014}.
+These findings let us to hypothesise that, unlike in other organisms
+\citep{Carlini:2003}, no widespread translational regulation, mediated by codon
+bias, is likely to occur in mammals.\\
+In contrast, others have recently reported that codon usage for genes
+enriched in cell-autonomous function and multicelluarity in humans is
+adapted to the tRNA abundance of proliferating and differentiating cells,
+respectively \citep{Gingold:2014}.\\
+Here we test this hypothesis using whole-genome expression data from healthy
+liver tissue and two different tumour cell lines in human and mouse.
+}
 
-\noindent
-\begin{minipage}[t][][t]{0.48\textwidth}
-    \section*{Introduction}
-    We have previously reported the stability of the codon--anticodon interface
-    during mouse development, where we measured the whole-transcriptome codon
-    usage and the tRNA anticodon abundance of matching stages of development and
-    found remarkable stability, both in codon usage and in tRNA anticodon
-    abundance, despite the drastic phenotypic changes \citep{Schmitt:2014}.
-    These findings let us to hypothesise that, unlike in other organisms
-    \citep{Carlini:2003}, no widespread translational regulation, regulated by
-    codon bias, is likely to occur in mammals.
-
-    In contrast, others have recently reported that codon usage for genes
-    enriched in cell-autonomous function and multicelluarity in humans is
-    adapted to the tRNA abundance of proliferating and differentiating cells,
-    respectively \citep{Gingold:2014}.
-
-    Here we test this hypothesis using whole-genome expression data from healthy
-    liver tissue and two different tumour cell lines in human and mouse.
+\vspace{-0.5cm}
+\section*{Experimental setup}
+\vspace{-0.5cm}
+\begin{minipage}{0.15\textwidth}
+    \centering
+    \includegraphics[height=17cm]{interaction-schema}
 \end{minipage}%
-\hfill%
-\begin{minipage}[t][][t]{0.48\textwidth}
-    \section*{Experimental setup}
+\hfill
+\begin{minipage}[t][][t]{0.50\textwidth}
     \includegraphics[width=\textwidth]{experimental-design}
-    \\[1cm]
-    Codon usage and Anticodon abundance of healthy adult liver and two
+    \\[0.5cm]
+    Codon usage and anticodon abundance of healthy adult liver and two
     cancer cell lines were correlated to estimate their adaptation in each
     cellular condition. Higher correlation implies better adaptation of the
     codon usage to the anticodon abundance.
 
-    The GO terms for cell-specific functions are “pattern specification
+    The GO terms used for cell-specific functions are “pattern specification
     process” and “M phase of mitotic cell cycle” for healthy and tumour
-    cells, respectively.
-\end{minipage}
-
-\noindent
-\begin{minipage}[][][t]{\textwidth}
-    \begin{minipage}[c]{0.48\textwidth}
-        \section*{Codon usage bias correlates with gene set size}
-        \includegraphics[width=\textwidth]{gene-set-size}
-    \end{minipage}%
-    \hfill
-    \begin{minipage}{0.23\textwidth}
-        \centering
-        \textbf{Legend:}\\[0.5cm]
-        \includegraphics[width=\textwidth]{legend-1}
-        \\[2cm]
-        \includegraphics[width=\textwidth]{legend-2}
-    \end{minipage}%
-    \hfill
-    \begin{minipage}{0.17\textwidth}
-        \centering
-        \includegraphics[height=15cm]{interaction-schema}
-    \end{minipage}%
-\end{minipage}
+    cells, respectively \citep{Gingold:2014}.
+\end{minipage}%
+\hfill
+\begin{minipage}{0.23\textwidth}
+    \centering
+    \textbf{Legend:}\\[0.5cm]
+    \includegraphics[width=\textwidth]{legend-1}
+    \\[2cm]
+    \includegraphics[width=\textwidth]{legend-2}
+\end{minipage}%
 
 \vspace{1cm}
 \noindent
-\begin{minipage}{\textwidth}
-    \begin{minipage}[t]{0.48\textwidth}
-        \section*{Results}
-        \includegraphics[width=\textwidth]{results}
-    \end{minipage}%
-    \hfill%
-    \begin{minipage}[t][][t]{0.48\textwidth}
-        \LARGE
-        \section*{Tumour cell lines show no evidence of codon--anticodon coordination}
-        Codon--anticodon correlation is not significantly higher in matching
-        than in mismatching cellular condition. The same is true in genes in
-        condition-specific gene sets (determined either via differential
-        expression or Gene Ontology). Gene sets determined from Gene Ontology,
-        on the contrary, show significantly less codon--anticodon correlation,
-        consistent with the stochastic effect of small gene set sample sizes
-        (\(N<100\) in all cases) on codon bias.
+\begin{minipage}[t][][t]{0.48\textwidth}
+    \section*{Codon usage bias correlates with gene set size}
+    \includegraphics[width=\textwidth]{gene-set-size}
+\end{minipage}%
+\hfill
+\begin{minipage}[t][][t]{0.48\textwidth}
+    \section*{No evidence of codon--anticodon correlation}
+    \includegraphics[width=\textwidth]{results}
+\end{minipage}%
 
-        \vspace{7cm}
-        \hfill Contact: \textbf{rudolph@ebi.ac.uk}, \textbf{@klmr}
-    \end{minipage}%
-\end{minipage}
+\vspace{-0.5cm}
+\section*{Conclusion}
+{
+    \LARGE
+    Codon--anticodon correlation is not significantly higher in matching
+    than in mismatching cellular condition. The same is true in genes in
+    condition-specific gene sets (determined either via \textbf Differential
+    \textbf Expression or \textbf Gene \textbf Ontology). Gene sets determined from Gene Ontology,
+    on the contrary, show significantly less codon--anticodon correlation,
+    consistent with the stochastic effect of small gene set sample sizes
+    (\(N<100\) in all cases) on codon bias.
 
-\section*{References}
+    \hfill Contact: \textbf{rudolph@ebi.ac.uk}, \textbf{@klmr}
+}
+
 \vspace{-1cm}
+\section*{References}
+\vspace{-1.5cm}
 \begin{multicols}{2}
     \renewcommand\section[2]{}
     \bibliography{references.bib}
